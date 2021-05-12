@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michalkryjan
-- 👀 I’m interested in backend, mainly developing desktop and web applications using Python and Django.
-- 🌱 Currently my main life goal is to get a job as Junior Python Developer or Python/Django Intern so I'm open to any offers which can make my dreams come true :) In the meantime I keep self-developing, learning new stuff and working on my projects.
+- 👀 I’m interested in backend, mainly developing desktop and web applications using Python.
+- 🌱 Currently I'm looking for a job as Junior Python Developer so I'm open to any offers which can make my dreams come true :) In the meantime I keep on self-developing, learning new stuff and working on my projects.
 - 📫 Bialystok/Warsaw - Poland
 
 <!---
