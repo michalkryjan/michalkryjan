@@ -1,6 +1,16 @@
-- 👋 Hi, I’m @michalkryjan
-- 👀 I’m looking for a job as a dev, so I'm open to any offers which can make my dream come true ;) In the meantime I keep on self-developing, learning new stuff and working on my projects.
-- 📫 Bialystok - Poland
+👋 Hi, I’m @michalkryjan  
+👀 I’m a Junior Full-Stack Developer  
+📫 Bialystok - Poland  
+<br>
+<br>
+My tech stack:
+-  Python with Pandas
+-  Javascript 
+-  HTML
+-  SCSS
+-  CSS 
+-  Bootstrap
+-  Docker
 
 <!---
 michalkryjan/michalkryjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
