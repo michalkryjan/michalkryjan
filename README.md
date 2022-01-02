@@ -7,8 +7,7 @@ My tech stack:
 -  Python with Pandas
 -  Javascript 
 -  HTML
--  SCSS
--  CSS 
+-  SCSS / CSS
 -  Bootstrap
 -  Docker
 
