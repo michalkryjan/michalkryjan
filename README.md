@@ -5,7 +5,7 @@
 <br>
 My tech stack:
 -  Python with Pandas
--  Javascript 
+-  Javascript / React
 -  HTML
 -  SCSS / CSS
 -  Bootstrap
