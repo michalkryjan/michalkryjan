@@ -9,7 +9,7 @@ My tech stack:
 -  React with Styled Components
 -  HTML
 -  SCSS / CSS
--  Bootstrap
+-  Tailwind 3.0, Bootstrap
 -  Docker
 
 <!---
