@@ -6,7 +6,7 @@
 My tech stack:
 -  Python with Pandas
 -  Javascript / Typescript
--  React with Styled Components
+-  React
 -  HTML
 -  SCSS / CSS
 -  Tailwind 3.0, Bootstrap
