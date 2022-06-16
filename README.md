@@ -4,12 +4,13 @@
 <br>
 <br>
 My tech stack:
--  Python with Pandas
+-  HTML5
+-  CSS3 / Dart Sass
 -  Javascript / Typescript
+-  jQuery
 -  React
--  HTML
--  SCSS / CSS
--  Tailwind 3.0, Bootstrap
+-  Python with Pandas
+-  Bootstrap
 -  Docker
 
 <!---
