@@ -5,13 +5,11 @@
 <br>
 My tech stack:
 -  HTML5
--  CSS3 / Dart Sass
+-  CSS3 / SCSS / Dart Sass
 -  Javascript / Typescript
--  jQuery
 -  React
--  Python with Pandas
+-  Python / Pandas / Docker
 -  Bootstrap
--  Docker
 
 <!---
 michalkryjan/michalkryjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
