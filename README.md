@@ -1,5 +1,5 @@
 👋 Hi, I’m @michalkryjan  
-👀 I’m a Junior Full-Stack Developer  
+👀 I’m a Frontend Developer  
 📫 Bialystok - Poland  
 <br>
 <br>
@@ -7,7 +7,7 @@ My tech stack:
 -  HTML5
 -  CSS3 / SCSS / Dart Sass
 -  Javascript / Typescript
--  React
+-  React / React Native
 -  Python / Pandas / Docker
 -  Bootstrap
 
