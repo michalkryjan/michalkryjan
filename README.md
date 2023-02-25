@@ -4,10 +4,12 @@
 <br>
 <br>
 My tech stack:
+-  Vue.js 3 / Nuxt.js 3
+-  React / Next.js
+-  React Native
+-  Javascript / Typescript
 -  HTML5
 -  CSS3 / SCSS / Dart Sass
--  Javascript / Typescript
--  React / React Native
 -  Python / Pandas / Docker
 -  Bootstrap
 
