@@ -1,17 +1,26 @@
 👋 Hi, I’m @michalkryjan  
-👀 I’m a Frontend Developer  
+👀 I’m a Front-end Developer  
 📫 Bialystok - Poland  
-<br>
-<br>
-My tech stack:
--  Vue.js 3 / Nuxt.js 3
--  React / Next.js
--  React Native
--  Javascript / Typescript
--  HTML5
--  CSS3 / SCSS / Dart Sass
--  Python / Pandas / Docker
--  Bootstrap
+
+
+## My tech stack:
+
+### Primary technologies (working with every day):
+- TypeScript / JavaScript
+- Nuxt.js  / Vue.js (Pinia, Vuex, Vue Router, VueUse, Nuxt Content)
+- Storybook
+- Tailwind CSS / Uno CSS
+- CSS / SCSS / Dart Sass
+- HTML5
+- GIT
+
+
+### Other technologies (used to work with):
+- React.js / React Native (Redux)
+- JQuery
+- Bootstrap
+- Docker
+- Python (Pandas)
 
 <!---
 michalkryjan/michalkryjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
