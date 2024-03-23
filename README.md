@@ -4,23 +4,18 @@
 
 
 ## My tech stack:
-
-### Primary technologies (working with every day):
 - TypeScript / JavaScript
-- Nuxt.js  / Vue.js (Pinia, Vuex, Vue Router, VueUse, Nuxt Content)
+- Nuxt.js  / Vue.js (Pinia, Vuex, Vue Router, VueUse, Nuxt Content, i18n)
+- React.js / React Native (Redux)
 - Storybook
-- Tailwind CSS / Uno CSS
+- Tailwind CSS / Uno CSS / Bootstrap
 - CSS / SCSS / Dart Sass
 - HTML5
-- GIT
-
-
-### Other technologies (used to work with):
-- React.js / React Native (Redux)
-- JQuery
-- Bootstrap
 - Docker
+- GIT
+- JQuery
 - Python (Pandas)
+- Headless CMS
 
 <!---
 michalkryjan/michalkryjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
